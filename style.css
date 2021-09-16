@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+
+.title{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+}
+
+.note{
+    font-family: 'Bangers', cursive;
+    color: blue;
+}
+
+#song-name{
+    float:none;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+canvas{
+    border-radius: 30px;
+    border-style: double dashed dotted solid;
+    border-width: 10px;
+    border-color: chartreuse;
+    margin-top: 450px;
+}
+
+#play_song{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 20px;
+}
